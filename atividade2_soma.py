@@ -13,4 +13,4 @@ soma = numero1 + numero2
 # Exibição do resultado
 print("A soma é:", soma)
 
-soma dos numeros = 26
+soma_dos_numeros = 26

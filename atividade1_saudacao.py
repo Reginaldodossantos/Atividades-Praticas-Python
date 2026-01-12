@@ -6,3 +6,5 @@ Objetivo: Exibir uma mensagem de saudação na tela
 print("Olá, mundo!")
 
 # Meu primeiro código em Python.
+
+

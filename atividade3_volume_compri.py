@@ -41,6 +41,4 @@ print(f"Largura: {largura} cm")
 print(f"Altura: {altura} cm")
 print(f"Volume calculado: {volume} cm³")
 
-Volume da caixa: 3360 cm³
-
-
+print("Volume da caixa: 3360 cm³")

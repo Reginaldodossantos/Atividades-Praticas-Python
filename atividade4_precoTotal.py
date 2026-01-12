@@ -9,4 +9,4 @@ print("Preço unitário: R$", preco_unitario)
 print("Quantidade:", quantidade)
 print("Preço total: R$", preco_total)
 
-
+print("Preço total: R$ 37.2")
